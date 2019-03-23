@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d5e0677-fa40-4104-9067-169c457457f1" name="nlp8" url="http://nlp08.iem.technion.ac.il">
+        <fileTransfer host="nlp08.iem.technion.ac.il" port="22" rootFolder="/home/tomer.golany@st.technion.ac.il" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d581c512-c95d-4868-8426-5065b3b2fc62" name="nlp9" url="http://nlp09.iem.technion.ac.il">
+        <fileTransfer host="nlp09.iem.technion.ac.il" port="22" rootFolder="/home/tomer.golany@st.technion.ac.il" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e0ee1515-da75-4775-9d5b-87f76fe37e1c" name="gaon" url="http://gaon">
+        <fileTransfer host="gaon" port="22" rootFolder="/home/yochaiz" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

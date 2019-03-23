@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_dl_lib/tensor_flow_implementations/GAN/DCGAN/DCGAN-tensorflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_dl_lib/tensor_flow_implementations/Tfrecords_tutorial/tensorflow_notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_dl_lib/tensor_flow_implementations/nmt/tf_tutorial/nmt" vcs="Git" />
+  </component>
+</project>

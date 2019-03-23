@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: my-dl-lib
+Version: 0.1
+Summary: Generic library to create neural networks and train them
+Home-page: http://github.com/tomergolany/
+Author: Tomer Golany
+Author-email: tomer.golany@gmail.com
+License: Technion
+Description: UNKNOWN
+Platform: UNKNOWN

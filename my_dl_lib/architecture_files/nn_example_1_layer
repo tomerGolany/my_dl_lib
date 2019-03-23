@@ -1,0 +1,6 @@
+model_name: one_layer_mnist
+input_size: 784
+number_of_layers: 1
+layer 1:
+number_of_neurons: 10
+activation_function: softmax

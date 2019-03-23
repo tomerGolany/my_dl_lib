@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="nlp8">
+    <serverData>
+      <paths name="gaon">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tomer/my_dl_lib" local="$PROJECT_DIR$" web="/tomer/my_dl_lib" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nlp8">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ECG_CLASSIFICATION/my_dl_lib" local="$PROJECT_DIR$" web="/ECG_CLASSIFICATION/my_dl_lib" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nlp9">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ECG_CLASSIFICATION/my_dl_lib" local="$PROJECT_DIR$" web="/ECG_CLASSIFICATION/my_dl_lib" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

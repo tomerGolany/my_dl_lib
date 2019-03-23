@@ -1,0 +1,9 @@
+model_name: two_layer_mnist
+input_size: 784
+number_of_layers: 2
+layer 1:
+number_of_neurons: 20
+activation_function: sigmoid
+layer 2:
+number_of_neurons: 10
+activation_function: softmax

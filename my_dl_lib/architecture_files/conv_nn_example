@@ -1,0 +1,27 @@
+model_name: conv_net_mnist
+input_size: 784
+number_of_layers: 4
+cast_input_to_image:
+width: 28
+height: 28
+channels: 1
+conv layer 1:
+number_of_filters: 32
+filter_size:
+rows: 5
+columns: 5
+channels: 1
+activation_function: relu
+conv layer 2:
+number_of_filters: 64
+filter_size:
+rows: 5
+columns: 5
+channels: 32
+activation_function: relu
+layer 3:
+number_of_neurons: 1024
+activation_function: relu
+layer 4:
+number_of_neurons: 10
+activation_function: softmax
